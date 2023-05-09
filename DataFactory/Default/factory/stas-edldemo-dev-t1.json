@@ -1,0 +1,9 @@
+{
+	"name": "stas-edldemo-dev-t1",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9d467a02-02c2-4b47-9ba7-a56ec66ef0c6",
+		"tenantId": "7c9569ed-e2f8-4129-9ecb-c9aaa2c5544f"
+	}
+}
